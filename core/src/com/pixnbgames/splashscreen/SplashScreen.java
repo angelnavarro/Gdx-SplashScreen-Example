@@ -34,12 +34,12 @@ public class SplashScreen implements Screen {
  
     @Override
     public void resume() { }
-
-	@Override
-	public void show() { }
-
-	@Override
-	public void resize(int width, int height) { }
+    
+    @Override
+    public void show() { }
+    
+    @Override
+    public void resize(int width, int height) { }
  
     @Override
     public void dispose() {
